@@ -24,6 +24,7 @@ O objetivo do projeto é consolidar os coceitos aprendidos no MOOC FI Java Progr
 - Java Time API ('LocalDate')
 
 ## Autor
-Nícolas Evangelista @nickevangeliusta
+Nícolas Evangelista (@nickevangelista)
+
 
 
