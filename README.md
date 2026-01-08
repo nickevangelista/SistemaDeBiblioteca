@@ -1,6 +1,6 @@
 ﻿# Sistema De Biblioteca
 
-Projeto em Java para gerenciamento de livros, usuários e empréstimos, desenvolvido com foco em Programação Orientada a Objetos.
+Projeto em Java para gerenciamento de livros, usuários e empréstimos, desenvolvido com foco em Programação Orientada a Objetos (POO).
 
 O objetivo do projeto é consolidar os coceitos aprendidos no MOOC FI Java Programming I Part I antes de iniciar a Part II.
 
@@ -25,6 +25,7 @@ O objetivo do projeto é consolidar os coceitos aprendidos no MOOC FI Java Progr
 
 ## Autor
 Nícolas Evangelista (@nickevangelista)
+
 
 
 
